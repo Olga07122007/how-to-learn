@@ -1,0 +1,8 @@
+/*изменяет прозрачность ссылок при наведении мыши*/
+.link-opacity {
+	opacity: 1;
+	transition: opacity .6s ease-in;
+}
+.link-opacity:hover {
+	opacity: .6;
+}
