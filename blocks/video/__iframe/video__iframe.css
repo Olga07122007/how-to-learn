@@ -3,7 +3,7 @@
 	min-height: 316px;
 }
 
-/*расстояние между 2 видео*/
+/* расстояние между 2 видео */
 .video__iframe:first-of-type {
 	margin-right: 20px;
 }
